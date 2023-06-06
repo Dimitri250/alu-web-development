@@ -120,11 +120,11 @@ body {
   background-color: #c271ff;
   width: 1350px;
   height: 332px;
-  padding-left:150px ;
+  padding-left: 150px;
 }
 
 .profile2 {
-   height: 152.74473571777344px;
+  height: 152.74473571777344px;
   width: 150px;
   left: 0px;
   top: 0px;
@@ -149,171 +149,161 @@ p {
   color: white;
   font-size: 22px;
 }
-.simple-name{
-    font-weight: 400;
-    font-size: 22px;
+.simple-name {
+  font-weight: 400;
+  font-size: 22px;
 }
- .stars img{
-height: 15px;
-width: 15px;
-left: 36px;
-top: 305px;
-border-radius: 0px;
+.stars img {
+  height: 15px;
+  width: 15px;
+  left: 36px;
+  top: 305px;
+  border-radius: 0px;
+}
 
- }
-
- .video-section h4{
-    font-size: 32px;
-    font-weight: 100;
-    text-align: center;
-
- }
-  .video-section h4 span{
-    color: #c271ff;
-    font-weight: 600;
-  }
-  .video{
- height: 230px;
-width: 355px;
-
-
+.video-section h4 {
+  font-size: 32px;
+  font-weight: 100;
+  text-align: center;
 }
-video-box{
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    
+.video-section h4 span {
+  color: #c271ff;
+  font-weight: 600;
 }
-.small-pic{
-   height: 30px;
-width: 30px;
-border-radius: 50%;
-margin-top: 15px;
-
+.video {
+  height: 230px;
+  width: 355px;
 }
-.video-box p{
-    color:rgb(141, 129, 129);
-    font-size:16px;
-    font-weight: 100;
-    max-width: 225px;
-    margin-right:50px ;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-
+video-box {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
 }
-.video-block{
-    display: flex;
-    justify-content: space-around;
-    padding: 50px;
+.small-pic {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-top: 15px;
 }
-.rating{
-    display: flex;
-    justify-content: space-around;
-    padding-right: 120px;
+.video-box p {
+  color: rgb(141, 129, 129);
+  font-size: 16px;
+  font-weight: 100;
+  max-width: 225px;
+  margin-right: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-.rating h3{
-   color: #c271ff;
+.video-block {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
 }
-.video-box h3{
-    margin-left: 20px;
+.rating {
+  display: flex;
+  justify-content: space-around;
+  padding-right: 120px;
 }
-.stars{
-    margin-left: 25px;
+.rating h3 {
+  color: #c271ff;
 }
-.free-membership{
-    background-color: #071629;
-    padding: 30px;
+.video-box h3 {
+  margin-left: 20px;
 }
-.smile-block img{
-height: 45px;
-width: 54px;
-border-radius: 0px;
-
+.stars {
+  margin-left: 25px;
 }
-.free-membership h1{
-     font-size: 32px;
-    font-weight: 100;
-    text-align: center;
-    color: white;
-
+.free-membership {
+  background-color: #071629;
+  padding: 30px;
 }
-.free-membership h1 span{
-    font-weight: bold;
-    color: #c271ff;
+.smile-block img {
+  height: 45px;
+  width: 54px;
+  border-radius: 0px;
 }
-.general-block{
-    display: flex;
-    justify-content: space-between;
-    
+.free-membership h1 {
+  font-size: 32px;
+  font-weight: 100;
+  text-align: center;
+  color: white;
+}
+.free-membership h1 span {
+  font-weight: bold;
+  color: #c271ff;
+}
+.general-block {
+  display: flex;
+  justify-content: space-between;
 }
 .smile-block {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-    .smile-block h2{
-        font-size: 18px;
-        color: white;
-        font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-
-    }
-     .smile-block p{
-        font-size: 18px;
-        color: white;
-        font-weight: 100;
-         font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-
-    }
-    .faq-section h1{
-      font-size: 60px;
-      font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-      font-weight: 100;
-      text-align: center;
-}
-
-.uper-div{
-    display: flex;
-    justify-content: space-around;
-}
-.left-qa p{
-    color: rgb(97, 92, 92);
-    font-size: 14px;
-    max-width: 350px;
-    font-weight: 100;
-     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-}
-.right-qa p{
-    color: rgb(97, 92, 92);
-    font-size: 14px;
-    max-width: 350px;
-    font-weight: 100;
-     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    
-}
-.left-qa h2{
-    font-size: 14px;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    margin-left: 30px;
-}
-.right-qa h2{
-    font-size: 14px;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    margin-left: 30px;
-}
-footer{
-    background-color: #071629;
-    height: 200px;
-    padding-top: 40px;
-}
-.foot-img{
- height: 70px;
-width: 269px;
-}
-.upper-footer{
-    display: flex;
-    justify-content: space-between;
-}
-.last-paraph{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
-    color: rgb(200, 196, 196);
+}
+.smile-block h2 {
+  font-size: 18px;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.smile-block p {
+  font-size: 18px;
+  color: white;
+  font-weight: 100;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.faq-section h1 {
+  font-size: 60px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 100;
+  text-align: center;
+}
+
+.uper-div {
+  display: flex;
+  justify-content: space-around;
+}
+.left-qa p {
+  color: rgb(97, 92, 92);
+  font-size: 14px;
+  max-width: 350px;
+  font-weight: 100;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.right-qa p {
+  color: rgb(97, 92, 92);
+  font-size: 14px;
+  max-width: 350px;
+  font-weight: 100;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.left-qa h2 {
+  font-size: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 30px;
+}
+.right-qa h2 {
+  font-size: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 30px;
+}
+footer {
+  background-color: #071629;
+  height: 200px;
+  padding-top: 40px;
+}
+.foot-img {
+  height: 70px;
+  width: 269px;
+}
+.upper-footer {
+  display: flex;
+  justify-content: space-between;
+}
+.last-paraph {
+  text-align: center;
+  color: rgb(200, 196, 196);
+}
+.faq-section{
+  padding-bottom: 50px;
 }
